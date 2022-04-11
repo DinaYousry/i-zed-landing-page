@@ -1,0 +1,57 @@
+
+
+ body::-webkit-scrollbar{
+    width: 7px;
+  } 
+  
+   body::-webkit-scrollbar-track-piece{
+    background:transparent;
+  } 
+
+  /* body{
+    scrollbar-width: 7px !important;
+    scrollbar-color: #63AF9A transparent;
+  } */
+/* 
+  body::-moz-progress-bar{
+    background: #63AF9A;
+  }
+
+
+  body::-ms-thumb{
+    background: #63AF9A;
+  }  */
+
+  
+  
+
+  /* body::-ms-track{
+    background:transparent;
+  }  */
+  body::-webkit-scrollbar-thumb {
+    background: #63AF9A;
+    
+  }
+
+
+  /* html, body {
+    height: 100%;
+    margin: 0;
+    padding:0;
+}
+#container {
+    height:100%;
+    width:100%;
+    margin: 0;
+    padding:0;
+    overflow: auto;
+} */
+
+/* 
+#test{
+  height:100%;
+  width:100%;
+  margin: 0;
+  padding:0;
+  overflow: auto;
+} */
